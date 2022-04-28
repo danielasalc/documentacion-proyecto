@@ -19,3 +19,7 @@ materiales y métodos.
 ### Colaboradaores
 
 ![Herbert](img/hspencer.jpg)
+
+
+##### Código Abierto
+Toda la documentación y los archivos son de [libre acceso](https://github.com/danielasalc/documentacion-proyecto) en Github.
