@@ -16,7 +16,7 @@ En este `README.md` principal debes incorporar:
 El objetivo general de una documentación es **facilitar la colaboración y replicabilidad** de un proyecto, además de mantener una referencia actualizada y actualiuzable de sus 
 materiales y métodos.
 
-### Colaboradaores
+### Colaboradores
 
 ![Herbert](img/hspencer.jpg)
 
