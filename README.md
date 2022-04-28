@@ -13,4 +13,9 @@ En este `README.md` principal debes incorporar:
 - Describir la estructura de carpetas
 - Declarar herramientas y tecnologías utilizadas
 
-El objetivo general de una documentación es **facilitar la colaboración y replicabilidad** de un proyecto, además de mantener una referencia actualizada y actualiuzable de sus materiales y métodos.
+El objetivo general de una documentación es **facilitar la colaboración y replicabilidad** de un proyecto, además de mantener una referencia actualizada y actualiuzable de sus 
+materiales y métodos.
+
+### Colaboradaores
+
+![Herbert](img/hspencer.jpg)
